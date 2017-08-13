@@ -1,4 +1,5 @@
-!!! I can no longer maintain this project. If you're interessed, please contact me and I can move the projetct to you !!!
+This is a fork of the project [Tufão](https://github.com/vinipsmaker/tufao) that just adds a `.pro` file to build with qmake (easier to compile for iOS).
+
 
 # Tufão - an asynchronous web framework for C++ built on top of Qt
 
