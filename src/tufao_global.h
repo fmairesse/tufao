@@ -27,6 +27,8 @@
 
 #if defined(TUFAO_LIBRARY)
 #  define TUFAO_EXPORT Q_DECL_EXPORT
+#elif defined(TUFAO_STATIC_LIBRARY)
+#  define TUFAO_EXPORT
 #else
 #  define TUFAO_EXPORT Q_DECL_IMPORT
 #endif
